@@ -1,0 +1,48 @@
+2025-12-08 23:44:56,174 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:44:56,895 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:44:57,182 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:44:57,385 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:48:15,010 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:48:15,790 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:15,856 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:15,926 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:48:22,666 - INFO - root - Orange HRM application is opened correctly.
+2025-12-08 23:48:24,930 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:48:25,695 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:25,972 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:26,181 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:48:30,726 - INFO - root - Username and Password are visible.
+2025-12-08 23:48:32,964 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:48:33,746 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:33,819 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:33,894 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:48:48,259 - INFO - root - Menu items are displayed as expected.
+2025-12-08 23:48:50,585 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:48:51,291 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:51,575 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:48:51,777 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:49:13,365 - INFO - root - Newly add user is able to login.
+2025-12-08 23:49:17,259 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:49:18,038 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:18,223 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:18,503 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:49:29,530 - INFO - root - Newly added user is found in user listing.
+2025-12-08 23:49:31,820 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:49:32,581 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:32,765 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:32,865 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:49:40,741 - INFO - root - Reset Password link is working as expected.
+2025-12-08 23:49:42,990 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:49:43,728 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:44,126 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:49:44,231 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:50:06,980 - INFO - root - Menu items in Myinfo Page are working as expected.
+2025-12-08 23:50:09,219 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:50:09,939 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:50:10,217 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:50:10,420 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-08 23:50:26,177 - INFO - root - Leave is submitted successfully.
+2025-12-08 23:50:28,456 - INFO - WDM - ====== WebDriver manager ======
+2025-12-08 23:50:29,177 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:50:29,266 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-08 23:50:29,356 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache

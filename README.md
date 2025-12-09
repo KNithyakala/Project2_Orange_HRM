@@ -127,5 +127,7 @@ You can set up tests to run in headless mode by configuring the config.ini file 
 
 **Project Structure**  
 
+![Project2](https://github.com/user-attachments/assets/e395686a-aa84-48e0-8432-474b7c84c856)
+
 
 
